@@ -1,0 +1,9 @@
+{
+  "name": "jquery-mobile-icon-pack",
+  "version": "0.0.0",
+  "commit": "4b216e9d57452f250d48e326604ca507371db183",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/commadelimited/jQuery-Mobile-Icon-Pack.git"
+  }
+}

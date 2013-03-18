@@ -1,0 +1,9 @@
+{
+  "name": "jquery-mobile-bootstrap-theme",
+  "version": "0.0.0",
+  "commit": "9cb80e198b7d3a9d69e178ab91947b13ddafdd35",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme.git"
+  }
+}
